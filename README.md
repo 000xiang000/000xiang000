@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @000xiang000
+- 👋 Hi, I’m SHAWN
 - 👀 I’m interested in verilog code
 - 🌱 I’m currently learning hardware verification (with JasperGold)
 - 💞️ I’m student in NCKU TAIWAN
